@@ -1,7 +1,7 @@
 # Solidworks draws
 This file contains first application of mechanical designs. Seeds will be transformed into product version after 4 new designs sharing.
 
-This section is open to all kinds of suggestions.
+This section is open to all kinds of suggestions.If you're interested in contributing under this section, check out our [contributing docs](CONTRIBUTING.md) to get started.
 # Solidwork çizimleri
 Bu dosya ilk mekanik tasarım uygulamalarını içerir. Tohumlar, 4 yeni tasarım paylaşımından sonra ürün versiyonuna dönüştürülecektir.
 
