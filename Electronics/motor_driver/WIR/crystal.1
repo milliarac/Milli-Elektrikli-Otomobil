@@ -1,0 +1,62 @@
+| Wirelist created using version 6.0 
+V 6.0
+DW crystal
+|Q discretes:cap 1
+AS discretes:cap PINOFF
+AS discretes:cap REFDES=C?
+AS discretes:cap PREFIX=C
+AS discretes:cap PKG_TYPE
+AS discretes:cap DEVICE
+AS discretes:cap TYPE
+AS discretes:cap VALUE
+AS discretes:cap INOV_VER_REC=17:16_8-26-04
+AS discretes:cap PINORDER=N1 N2
+AP discretes:cap 1 #
+AP discretes:cap 1 PINTYPE=BI
+AP discretes:cap 2 #
+AP discretes:cap 2 PINTYPE=BI
+|Q discretes:ind 2
+AS discretes:ind PREFIX=L
+AS discretes:ind PINOFF
+AS discretes:ind REFDES=L?
+AS discretes:ind PKG_TYPE
+AS discretes:ind DEVICE
+AS discretes:ind VALUE
+AS discretes:ind INOV_VER_REC=20:34_8-26-04
+AS discretes:ind PINORDER=N1 N2
+AP discretes:ind 1 #=1
+AP discretes:ind 1 PINTYPE=BI
+AP discretes:ind 2 #=2
+AP discretes:ind 2 PINTYPE=BI
+|Q discretes:res 2
+AS discretes:res PREFIX=R
+AS discretes:res PINOFF
+AS discretes:res REFDES=R?
+AS discretes:res DEVICE
+AS discretes:res PKG_TYPE
+AS discretes:res VALUE
+AS discretes:res INOV_VER_REC=20:33_8-26-04
+AS discretes:res PINORDER=N1 N2
+AP discretes:res 1 #
+AP discretes:res 1 PINTYPE=BI
+AP discretes:res 2 #
+AP discretes:res 2 PINTYPE=BI
+M discretes:cap $1I7
+I $1I7 discretes:cap P N VALUE=@CP`REFDES=CP`
+|R 17:16_8-26-04
+API $1I7 discretes:cap 1 #=1
+API $1I7 discretes:cap 2 #=2
+|N 2
+M discretes:ind $1I3
+I $1I3 discretes:ind ? ? VALUE=@LS`REFDES=LS`
+|R 20:34_8-26-04
+|N 2
+M discretes:res $1I5
+I $1I5 discretes:res ? ? VALUE=@RS`REFDES=RS`
+|R 20:33_8-26-04
+M discretes:cap $1I6
+I $1I6 discretes:cap $1N12 N VALUE=@CS`REFDES=CS`
+|R 17:16_8-26-04
+API $1I6 discretes:cap 1 #=1
+API $1I6 discretes:cap 2 #=2
+EW

@@ -1,0 +1,20 @@
+PADS Layout ECO Generator (Version 6.4v) 18.07.2017 12:28:49
+Copyright (c) 2003 - 2008 Mentor Graphics Corp. - All rights reserved
+Command line arguments:  -e C:\Users\user\Desktop\mentor_projects\deneme\motor_driver\Log Files\ECOGEN.ERR -r p -a PCB,PART,NET,PIN -l PCB,NET,NETCLASS,GEN,DFP
+0 msec
+0 msec
+Reading the OLD DESIGN
+There are 96 parts in the design
+There are 71 signals in the design
+There are 289 pins in the design
+0 msec
+Reading the NEW DESIGN
+WARNING: Signal $1N1183 has 1 pins
+There are 97 parts in the design
+There are 75 signals in the design
+There are 298 pins in the design
+10 msec
+Final cost=272
+Partitioning - 0 msec
+Final Matching - 0 msec
+Deleted pins: 2,  Added pins: 11

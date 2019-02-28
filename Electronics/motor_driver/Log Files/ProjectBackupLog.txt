@@ -1,0 +1,50 @@
+[2017-06-07 16.27.23] -------------------- CREATE --------------------
+[2017-06-07 16.27.23] Creating Project Backup infrastructure for project [C:\Users\user\Desktop\mentor_projects\deneme\motor_driver\motor_driver.prj].
+[2017-06-07 16.27.23] Successfully created [AutoSave] backup [2017-06-07 16.27.23 - auto.zip] requested by [USER-BILGISAYAR:user].
+[2017-06-12 09.53.27] Successfully created [AutoSave] backup [2017-06-12 09.53.27 - auto.zip] requested by [USER-BILGISAYAR:user].
+[2017-06-12 13.53.27] Successfully created [AutoSave] backup [2017-06-12 13.53.27 - auto.zip] requested by [USER-BILGISAYAR:user].
+[2017-06-13 09.43.40] Successfully created [AutoSave] backup [2017-06-13 09.43.40 - auto.zip] requested by [USER-BILGISAYAR:user].
+[2017-06-13 09.43.40] Removing excessive [AutoSave] backup file [C:\Users\user\Desktop\mentor_projects\deneme\motor_driver\ProjectBackup\backups\2017-06-07 16.27.23 - auto.zip].
+[2017-06-13 09.43.40] [AutoSave] backup file [motor_driver\ProjectBackup\backups\2017-06-07 16.27.23 - auto.zip] removed.
+[2017-06-30 14.50.46] Successfully created [AutoSave] backup [2017-06-30 14.50.45 - auto.zip] requested by [USER-BILGISAYAR:user].
+[2017-06-30 14.50.46] Removing excessive [AutoSave] backup file [C:\Users\user\Desktop\mentor_projects\deneme\motor_driver\ProjectBackup\backups\2017-06-12 09.53.27 - auto.zip].
+[2017-06-30 14.50.46] [AutoSave] backup file [motor_driver\ProjectBackup\backups\2017-06-12 09.53.27 - auto.zip] removed.
+[2017-07-03 10.54.22] Successfully created [AutoSave] backup [2017-07-03 10.54.21 - auto.zip] requested by [USER-BILGISAYAR:user].
+[2017-07-03 10.54.22] Removing excessive [AutoSave] backup file [C:\Users\user\Desktop\mentor_projects\deneme\motor_driver\ProjectBackup\backups\2017-06-12 13.53.27 - auto.zip].
+[2017-07-03 10.54.22] [AutoSave] backup file [motor_driver\ProjectBackup\backups\2017-06-12 13.53.27 - auto.zip] removed.
+[2017-07-03 14.54.22] Successfully created [AutoSave] backup [2017-07-03 14.54.21 - auto.zip] requested by [USER-BILGISAYAR:user].
+[2017-07-03 14.54.22] Removing excessive [AutoSave] backup file [C:\Users\user\Desktop\mentor_projects\deneme\motor_driver\ProjectBackup\backups\2017-06-13 09.43.40 - auto.zip].
+[2017-07-03 14.54.22] [AutoSave] backup file [motor_driver\ProjectBackup\backups\2017-06-13 09.43.40 - auto.zip] removed.
+[2017-07-04 09.39.59] Successfully created [AutoSave] backup [2017-07-04 09.39.58 - auto.zip] requested by [USER-BILGISAYAR:user].
+[2017-07-04 09.39.59] Removing excessive [AutoSave] backup file [C:\Users\user\Desktop\mentor_projects\deneme\motor_driver\ProjectBackup\backups\2017-06-30 14.50.45 - auto.zip].
+[2017-07-04 09.39.59] [AutoSave] backup file [motor_driver\ProjectBackup\backups\2017-06-30 14.50.45 - auto.zip] removed.
+[2017-07-04 13.53.46] Successfully created [AutoSave] backup [2017-07-04 13.53.46 - auto.zip] requested by [USER-BILGISAYAR:user].
+[2017-07-04 13.53.46] Removing excessive [AutoSave] backup file [C:\Users\user\Desktop\mentor_projects\deneme\motor_driver\ProjectBackup\backups\2017-07-03 10.54.21 - auto.zip].
+[2017-07-04 13.53.46] [AutoSave] backup file [motor_driver\ProjectBackup\backups\2017-07-03 10.54.21 - auto.zip] removed.
+[2017-07-10 10.28.05] Successfully created [AutoSave] backup [2017-07-10 10.28.05 - auto.zip] requested by [USER-BILGISAYAR:user].
+[2017-07-10 10.28.06] Removing excessive [AutoSave] backup file [C:\Users\user\Desktop\mentor_projects\deneme\motor_driver\ProjectBackup\backups\2017-07-03 14.54.21 - auto.zip].
+[2017-07-10 10.28.06] [AutoSave] backup file [motor_driver\ProjectBackup\backups\2017-07-03 14.54.21 - auto.zip] removed.
+[2017-07-10 14.28.07] Successfully created [AutoSave] backup [2017-07-10 14.28.05 - auto.zip] requested by [USER-BILGISAYAR:user].
+[2017-07-10 14.28.07] Removing excessive [AutoSave] backup file [C:\Users\user\Desktop\mentor_projects\deneme\motor_driver\ProjectBackup\backups\2017-07-04 09.39.58 - auto.zip].
+[2017-07-10 14.28.07] [AutoSave] backup file [motor_driver\ProjectBackup\backups\2017-07-04 09.39.58 - auto.zip] removed.
+[2017-07-11 10.51.08] Successfully created [AutoSave] backup [2017-07-11 10.51.05 - auto.zip] requested by [USER-BILGISAYAR:user].
+[2017-07-11 10.51.08] Removing excessive [AutoSave] backup file [C:\Users\user\Desktop\mentor_projects\deneme\motor_driver\ProjectBackup\backups\2017-07-04 13.53.46 - auto.zip].
+[2017-07-11 10.51.08] [AutoSave] backup file [motor_driver\ProjectBackup\backups\2017-07-04 13.53.46 - auto.zip] removed.
+[2017-07-11 14.51.08] Successfully created [AutoSave] backup [2017-07-11 14.51.05 - auto.zip] requested by [USER-BILGISAYAR:user].
+[2017-07-11 14.51.08] Removing excessive [AutoSave] backup file [C:\Users\user\Desktop\mentor_projects\deneme\motor_driver\ProjectBackup\backups\2017-07-10 10.28.05 - auto.zip].
+[2017-07-11 14.51.08] [AutoSave] backup file [motor_driver\ProjectBackup\backups\2017-07-10 10.28.05 - auto.zip] removed.
+[2017-07-14 10.38.34] Successfully created [AutoSave] backup [2017-07-14 10.38.33 - auto.zip] requested by [USER-BILGISAYAR:user].
+[2017-07-14 10.38.34] Removing excessive [AutoSave] backup file [C:\Users\user\Desktop\mentor_projects\deneme\motor_driver\ProjectBackup\backups\2017-07-10 14.28.05 - auto.zip].
+[2017-07-14 10.38.34] [AutoSave] backup file [motor_driver\ProjectBackup\backups\2017-07-10 14.28.05 - auto.zip] removed.
+[2017-07-14 14.38.36] Successfully created [AutoSave] backup [2017-07-14 14.38.33 - auto.zip] requested by [USER-BILGISAYAR:user].
+[2017-07-14 14.38.36] Removing excessive [AutoSave] backup file [C:\Users\user\Desktop\mentor_projects\deneme\motor_driver\ProjectBackup\backups\2017-07-11 10.51.05 - auto.zip].
+[2017-07-14 14.38.36] [AutoSave] backup file [motor_driver\ProjectBackup\backups\2017-07-11 10.51.05 - auto.zip] removed.
+[2017-07-15 20.33.50] Successfully created [AutoSave] backup [2017-07-15 20.33.46 - auto.zip] requested by [USER-BILGISAYAR:user].
+[2017-07-15 20.33.50] Removing excessive [AutoSave] backup file [C:\Users\user\Desktop\mentor_projects\deneme\motor_driver\ProjectBackup\backups\2017-07-11 14.51.05 - auto.zip].
+[2017-07-15 20.33.50] [AutoSave] backup file [motor_driver\ProjectBackup\backups\2017-07-11 14.51.05 - auto.zip] removed.
+[2017-07-18 10.50.06] Successfully created [AutoSave] backup [2017-07-18 10.50.05 - auto.zip] requested by [USER-BILGISAYAR:user].
+[2017-07-18 10.50.06] Removing excessive [AutoSave] backup file [C:\Users\user\Desktop\mentor_projects\deneme\motor_driver\ProjectBackup\backups\2017-07-14 10.38.33 - auto.zip].
+[2017-07-18 10.50.06] [AutoSave] backup file [motor_driver\ProjectBackup\backups\2017-07-14 10.38.33 - auto.zip] removed.
+[2017-07-18 14.50.06] Successfully created [AutoSave] backup [2017-07-18 14.50.05 - auto.zip] requested by [USER-BILGISAYAR:user].
+[2017-07-18 14.50.06] Removing excessive [AutoSave] backup file [C:\Users\user\Desktop\mentor_projects\deneme\motor_driver\ProjectBackup\backups\2017-07-14 14.38.33 - auto.zip].
+[2017-07-18 14.50.06] [AutoSave] backup file [motor_driver\ProjectBackup\backups\2017-07-14 14.38.33 - auto.zip] removed.

@@ -1,0 +1,24 @@
+** ECO In Report **
+
+Tue Jul 18 12:28:49 2017
+
+Input  File : C:\Users\user\Desktop\mentor_projects\deneme\motor_driver\Schematic1.eco
+Current Job : motor_driver.pcb
+
+
+
+Line 16 , Section *NET*
+R26.1  D12.1
+* Not valid pin name 1 for part D12 
+
+Line 18 , Section *NET*
+R27.1  D13.1
+* Not valid pin name 1 for part D13 
+
+Line 22 , Section *NET*
+D12.2  D13.2
+* Not valid pin name 2 for part D12 
+* Not valid pin name 2 for part D13 
+* Warning: deleting single-pin signal $1N1183
+* Warning: deleting single-pin signal $1N969
+* Warning: deleting single-pin signal $1N988

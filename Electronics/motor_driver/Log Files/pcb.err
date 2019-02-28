@@ -1,0 +1,48 @@
+pcb: Note 5996: Using Config File C:\MentorGraphics\9.5PADS\SDD_HOME\standard\pads95.cfg
+pcb: Warning 7202: Schematic1 net $1N789: NC property attached to multi-pin net
+pcb: Warning 6094: Schematic1 pin $1I685.NC1: Pin not connected
+pcb: Warning 6094: Schematic1 pin $1I685.NC2: Pin not connected
+pcb: Warning 6094: Schematic1 pin $1I685.NC3: Pin not connected
+pcb: Warning 6094: Schematic1 pin $1I602.NC1: Pin not connected
+pcb: Warning 6094: Schematic1 pin $1I602.NC2: Pin not connected
+pcb: Warning 6094: Schematic1 pin $1I602.NC3: Pin not connected
+pcb: Warning 6094: Schematic1 pin $1I54.RA4/T0CKI: Pin not connected
+pcb: Warning 6094: Schematic1 pin $1I54.RA5/AN4/SS: Pin not connected
+pcb: Warning 6094: Schematic1 pin $1I54.RB0/INT: Pin not connected
+pcb: Warning 6094: Schematic1 pin $1I54.RB1: Pin not connected
+pcb: Warning 6094: Schematic1 pin $1I54.RB2: Pin not connected
+pcb: Warning 6094: Schematic1 pin $1I54.RB3/PGM: Pin not connected
+pcb: Warning 6094: Schematic1 pin $1I54.RB7/PGD: Pin not connected
+pcb: Warning 6094: Schematic1 pin $1I54.RC0/T1OSO/T1CKI: Pin not connected
+pcb: Warning 6094: Schematic1 pin $1I54.RC1/T1OSI/CCP2: Pin not connected
+pcb: Warning 6094: Schematic1 pin $1I54.RC3/SCK/SCL: Pin not connected
+pcb: Warning 6094: Schematic1 pin $1I54.RC4/SDI/SDA: Pin not connected
+pcb: Warning 6094: Schematic1 pin $1I54.RC5/SDO: Pin not connected
+pcb: Warning 6094: Schematic1 pin $1I54.RD6/PSP6: Pin not connected
+pcb: Warning 6094: Schematic1 pin $1I54.RD7/PSP7: Pin not connected
+pcb: Warning 6094: Schematic1 pin $1I54.RE0/RD/AN5: Pin not connected
+pcb: Warning 6094: Schematic1 pin $1I54.RE1/WR/AN6: Pin not connected
+pcb: Warning 6094: Schematic1 pin $1I54.RE2/CS/AN7: Pin not connected
+pcb: Warning 6094: Schematic1 pin $1I449.NC1: Pin not connected
+pcb: Warning 6094: Schematic1 pin $1I449.NC3: Pin not connected
+pcb: Warning 6094: Schematic1 pin $1I162.3A: Pin not connected
+pcb: Warning 6094: Schematic1 pin $1I162.3B: Pin not connected
+pcb: Warning 6094: Schematic1 pin $1I162.3Y: Pin not connected
+pcb: Warning 6094: Schematic1 pin $1I162.4A: Pin not connected
+pcb: Warning 6094: Schematic1 pin $1I162.4B: Pin not connected
+pcb: Warning 6094: Schematic1 pin $1I162.4Y: Pin not connected
+pcb: Warning 6094: Schematic1 pin $1I1014.R2IN: Pin not connected
+pcb: Warning 6094: Schematic1 pin $1I1014.R2OUT: Pin not connected
+pcb: Warning 6094: Schematic1 pin $1I1014.T2IN: Pin not connected
+pcb: Warning 6094: Schematic1 pin $1I1014.T2OUT: Pin not connected
+pcb: Warning 6094: Schematic1 pin $1I1003.1: Pin not connected
+pcb: Warning 6094: Schematic1 pin $1I1003.4: Pin not connected
+pcb: Warning 6094: Schematic1 pin $1I1003.6: Pin not connected
+pcb: Warning 6094: Schematic1 pin $1I1003.7: Pin not connected
+pcb: Warning 6094: Schematic1 pin $1I1003.8: Pin not connected
+pcb: Warning 6094: Schematic1 pin $1I1003.9: Pin not connected
+pcb: Note 5854: Instance value (PKG_TYPE=RES) was added to instance ($1I235) on (SCHEMATIC1).
+pcb: Note 5854: Instance value (REFDES=F1) was added to instance ($1I1209) on (SCHEMATIC1).
+pcb: Note 5626: Summary of Log Files/pcb.err
+Status 0, Notes 3, Warnings 42
+Errors 0, Failures 0, Fatals 0, Internals 0

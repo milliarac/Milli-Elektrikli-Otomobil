@@ -1,0 +1,26 @@
+Part Lister output for Board1
+Generated on Friday, June 30, 2017
+#   QTY   DEVICE     REFDES     PKG_TYPE   VALUE     
+-----------------------------------------------------
+ 1    2   74HC08     U1,U2      74HC08,    ,         
+                                74HC08               
+ 2    1   ACS758     U8         acs758               
+ 3    1   CONNECTOR_ J1         klemens_3p           
+          3PIN                  in                   
+ 4    3   IR2110     U3-U5      IR2110,    ,,        
+                                IR2110,              
+                                IR2110               
+ 5    1   LM2576     U6         LM2576               
+ 6    6   OPTO_COUPL PT1-PT6    photo_tran ,,,,,     
+          ER                    sistor,              
+                                photo_tran           
+                                sistor,              
+                                photo_tran           
+                                sistor,              
+                                photo_tran           
+                                sistor,              
+                                photo_tran           
+                                sistor,              
+                                photo_tran           
+                                sistor               
+ 7    1   PIC16F877A U7         pic16f877a           

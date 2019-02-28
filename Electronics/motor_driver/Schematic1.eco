@@ -1,0 +1,113 @@
+*PADS-ECO-V9.5-MILS*
+*REMARK*  old file: C:\Users\user\Desktop\mentor_projects\deneme\motor_driver\motor_driv02.asc
+*REMARK*  new file: C:\Users\user\Desktop\mentor_projects\deneme\motor_driver\Schematic1.asc
+*REMARK*  created by ECOGEN (Version 6.4v) on 18.07.2017 12:28:49
+*DELPIN*
+J1.1  +12V
+D2.2  +12V
+*PART*
+F1  FUSE
+*NET*
+*SIGNAL*  $1N1183
+U3.8
+*SIGNAL*  $1N423
+J1.1  F1.1
+*SIGNAL*  $1N969
+R26.1  D12.1
+*SIGNAL*  $1N988
+R27.1  D13.1
+*SIGNAL*  +12V
+D2.2  F1.2
+*SIGNAL*  GND
+D12.2  D13.2
+*DEL_ATTRIBUTE*	PART	J1
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	J4
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	J3
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	J5
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	U8
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	C14
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	C15
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	C16
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	C17
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	C18
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	C19
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	C1
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	C2
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	C27
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	C3
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	C4
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	C5
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	X1
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	L1
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	U3
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	U4
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	U5
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	U6
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	M1
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	M2
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	M3
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	M4
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	M5
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	M6
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	PT1
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	PT2
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	PT3
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	PT4
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	PT5
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	PT6
+"Geometry.Height"
+*SET_ATTRIBUTE*	PART	F1
+"PKG_TYPE"	FUSE
+
+*MODIFY_GENERAL_RULES*	ROUTING
+
+HIERARCHY_OBJECT	PCB:PCB
+LENGTH_MINIMIZATION_TYPE	TOTAL
+VIA_SHARE	ON
+MAX_NUMBER_OF_VIAS	-1
+TRACE_SHARE	ON
+AUTO_ROUTE	ON
+RIPUP	ON
+SHOVE	ON
+SHOVE_PROTECTED	OFF
+ROUTE_PRIORITY	3
+VALID_LAYER	1
+VALID_LAYER	2
+VALID_VIA_TYPE	*USE_CURRENT*
+
+*REMARK*  Deleted pins: 2,  Added pins: 11
+*END*

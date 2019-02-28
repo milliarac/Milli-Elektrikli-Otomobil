@@ -1,0 +1,196 @@
+[2017.07.14 09:31:00] [0000m.00s.520ms] [0] WELCOME
+[2017.07.14 09:31:00] [0000m.00s.590ms] [1] iCDB Server ver.1.094, a0HSsGQ+3llE3aODnNgIUw, build:515009 created 2012-08-09 08:10:43, sources stamp:a0HSsGQ+3llE3aODnNgIUw
+[2017.07.14 09:31:00] [0000m.00s.590ms] [1] Copyright 2012 Mentor Graphics Corporation. All Rights Reserved.
+[2017.07.14 09:31:00] [0000m.00s.590ms] [1] Base flow version [7.9.4]
+[2017.07.14 09:31:00] [0000m.00s.590ms] [1] GBS Install Id [27413], Flow Id [PADS 9.5], Full Flow Name [PADS 9.5], Exact Access Date [Jun 1 2012]
+[2017.07.14 09:31:00] [0000m.00s.590ms] [1] Machine [USER-BILGISAYAR]  User [user]  PID [5844]
+[2017.07.14 09:31:00] [0000m.00s.590ms] [1] Operating system [Microsoft Windows 7 Business Edition, 64-bit Service Pack 1 (build 7601)]
+[2017.07.14 09:31:00] [0000m.00s.590ms] [1] Current working dir [C:\Users\user\Desktop\mentor_projects\deneme\motor_driver]
+[2017.07.14 09:31:00] [0000m.00s.590ms] [1] PATH [C:\MentorGraphics\9.5PADS\SDD_HOME\wv\win32\bin;C:\MentorGraphics\9.5PADS\SDD_HOME\common\win32\bin;C:\MentorGraphics\9.5PADS\SDD_HOME\common\win32\lib;C:\MentorGraphics\9.5PADS\MGC_HOME.ixn\bin;C:\MentorGraphics\9.5PADS\MGC_HOME.ixn\lib;C:\ProgramData\Oracle\Java\javapath;c:\Program Files (x86)\Intel\iCLS Client\;c:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\PuTTY\;;C:\Program Files (x86)\Microchip\MPLAB C32 Suite\bin]
+[2017.07.14 09:31:00] [0000m.00s.590ms] [1] SDD_HOME [C:\MentorGraphics\9.5PADS\SDD_HOME] on file system [NTFS]
+[2017.07.14 09:31:00] [0000m.00s.590ms] [1] SDD_PLATFORM [win32]
+[2017.07.14 09:31:00] [0000m.00s.590ms] [1] WDIR [C:\PADS Projects;C:\MentorGraphics\9.5PADS\SDD_HOME\standard]
+[2017.07.14 09:31:00] [0000m.00s.590ms] [1] Local iCDB working dir [C:\PADS Projects\iCDB] on file system [NTFS]
+[2017.07.14 09:31:00] [0000m.00s.610ms] [2] S: Loading config files
+[2017.07.14 09:31:00] [0000m.00s.710ms] [1] Config file [C:\Users\user\Desktop\mentor_projects\deneme\motor_driver\database\cdbsvr\Server.cfg] not found
+[2017.07.14 09:31:00] [0000m.00s.710ms] [3] S: Config loaded
+[2017.07.14 09:31:01] [0000m.00s.740ms] [0] S: Project path [C:\Users\user\Desktop\mentor_projects\deneme\motor_driver\database] on file system [NTFS]
+[2017.07.14 09:31:01] [0000m.00s.740ms] [0] S: Project file (.prj) path [C:\Users\user\Desktop\mentor_projects\deneme\motor_driver\motor_driver.prj] on file system [NTFS]
+[2017.07.14 09:31:01] [0000m.00s.740ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2017.07.14 09:31:01] [0000m.00s.740ms] [0] S: Single-user mode (auto)
+[2017.07.14 09:31:01] [0000m.00s.740ms] [0] S: Event polling mode autodetection
+[2017.07.14 09:31:01] [0000m.00s.840ms] [0] S: Started up automatically by iCDB Client: USER-BILGISAYAR:user:6268
+[2017.07.14 09:31:01] [0000m.00s.840ms] [0] S: Auto close mode
+[2017.07.14 09:31:01] [0000m.00s.840ms] [0] S: Database ID [6a48-42ce-0bc4-d874-a3ff-739f-3ff7-3950-08a8-3746-8080-449c]
+[2017.07.14 09:31:01] [0000m.00s.840ms] [0] PathTranslator: BEGIN dumping
+[2017.07.14 09:31:01] [0000m.00s.850ms] [0] PathTranslator: Local -> global path prefix list
+[2017.07.14 09:31:01] [0000m.00s.850ms] [0] PathTranslator: Global -> local path prefix list
+[2017.07.14 09:31:01] [0000m.00s.850ms] [0] PathTranslator: END dumping
+[2017.07.14 09:31:01] [0000m.00s.850ms] [0] S: START
+[2017.07.14 09:31:01] [0000m.00s.850ms] [0] S: Server startup lock file created
+[2017.07.14 09:31:01] [0000m.00s.850ms] [0] S: Listening for client connections on port [10001]
+[2017.07.14 09:31:01] [0000m.00s.890ms] [0] S: Server network ID [user-Bilgisayar:192.168.1.13,user-Bilgisayar:10001]
+[2017.07.14 09:31:01] [0000m.00s.890ms] [0] S: Server GUID [9482-0c71-ec19-dd7f-5256-869a-2568-6950-4518-3736-8080-449c]
+[2017.07.14 09:31:01] [0000m.00s.890ms] [0] S: Project GUID [6a48-42ce-0bc4-d874-a3ff-739f-3ff7-3950-08a8-3746-8080-449c]
+[2017.07.14 09:31:01] [0000m.00s.940ms] [0] S: Wrote data to server address file
+[2017.07.14 09:31:01] [0000m.00s.940ms] [0] S: Server startup lock file removed
+[2017.07.14 09:31:01] [0000m.01s.010ms] [1] ProjectBackupManager: Setting project file (.prj) path: [C:\Users\user\Desktop\mentor_projects\deneme\motor_driver\motor_driver.prj]
+[2017.07.14 09:31:02] [0000m.02s.240ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2017.07.14 09:31:02] [0000m.02s.250ms] [0] S: Local disc access time: 28 us
+[2017.07.14 09:31:02] [0000m.02s.250ms] [0] S: File server access time: 27 us
+[2017.07.14 09:31:02] [0000m.02s.370ms] [0] Single file [C:\Users\user\Desktop\mentor_projects\deneme\motor_driver\database\icdb.dat] size [110136 (107.6 kB)]
+[2017.07.14 09:31:02] [0000m.02s.370ms] [1] Single file [C:\Users\user\Desktop\mentor_projects\deneme\motor_driver\database\icdb.dat] opened in read-write mode
+[2017.07.14 09:31:02] [0000m.02s.390ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2017.07.14 09:31:02] [0000m.02s.390ms] [0] Database GUARD OK: [110136]
+[2017.07.14 09:31:02] [0000m.02s.450ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2017.07.14 09:31:02] [0000m.02s.450ms] [0] Database GUARD OK: [110136]
+[2017.07.14 09:31:02] [0000m.02s.450ms] [0] SingleFile: [06e0-0d94-da4d-4661] SFI version check [1009] [1009]
+[2017.07.14 09:31:02] [0000m.02s.450ms] [0] SingleFile: [06e0-0d94-da4d-4661] Database SFI header has been read in [1ms 90us]
+[2017.07.14 09:31:02] [0000m.02s.500ms] [0] iCDB Server PI: Server & plugin session [117]
+[2017.07.14 09:31:02] [0000m.02s.500ms] [0] iCDB Server PI: Opening database [C:\Users\user\Desktop\mentor_projects\deneme\motor_driver\database]
+[2017.07.14 09:31:02] [0000m.02s.500ms] [0] iCDB Server PI: Database [C:\Users\user\Desktop\mentor_projects\deneme\motor_driver\database] opened
+[2017.07.14 09:31:02] [0000m.02s.610ms] [0] iCDB Database: Checking existence of constraint definitions
+[2017.07.14 09:31:02] [0000m.02s.610ms] [0] iCDB Database: Checking constraint definitions version
+[2017.07.14 09:31:03] [0000m.02s.780ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.24;user.cns=c7f1-6426-41ce-4da2-b8b0-1390-9b01-3950-cfd7-3746-8080-449c] up to date
+[2017.07.14 09:31:03] [0000m.03s.230ms] [0] iCDB Server PI: Initializing plugins
+[2017.07.14 09:31:03] [0000m.03s.280ms] [0] iCDB Server PI: Plugins initialized
+[2017.07.14 09:31:03] [0000m.03s.280ms] [0] S: iCDB database loaded
+[2017.07.14 09:31:03] [0000m.03s.290ms] [0] S: Starting threads
+[2017.07.14 09:31:03] [0000m.03s.300ms] [0] BT: Listening for broadcast messages on port [10000]
+[2017.07.14 09:31:03] [0000m.03s.300ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2017.07.14 09:31:03] [0000m.03s.350ms] [0] IT: Session [118] for host [user-Bilgisayar] user [user] with process ID [6268] created
+[2017.07.14 09:31:03] [0000m.03s.350ms] [1] SC[118]: Registered sub-client [DxD] with ID [1] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:03] [0000m.03s.400ms] [1] CMT: There are [1] clients now: 118
+[2017.07.14 09:31:04] [0000m.04s.000ms] [1] SC[118]: Registered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:04] [0000m.04s.020ms] [1] SC[118]: Registered sub-client [xprob] with ID [3] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:06] [0000m.05s.790ms] [1] SC[118]: Registered sub-client [SelectionHolder] with ID [4] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:06] [0000m.05s.850ms] [1] SC[118]: Registered sub-client [SymbolEditor] with ID [5] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:07] [0000m.06s.800ms] [1] SC[118]: Registered sub-client [HdlProject] with ID [6] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:07] [0000m.06s.850ms] [1] SC[118]: Registered sub-client [Navigator] with ID [7] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:07] [0000m.06s.880ms] [1] SC[118]: Registered sub-client [OutputWindow] with ID [8] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:07] [0000m.06s.890ms] [1] SC[118]: Registered sub-client [PlaceDevice] with ID [9] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:07] [0000m.06s.950ms] [1] SC[118]: Registered sub-client [SAE] with ID [10] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:07] [0000m.06s.970ms] [1] SC[118]: Registered sub-client [DxConstraints] with ID [11] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:07] [0000m.06s.970ms] [1] SC[118]: Registered sub-client [CCZAddin] with ID [12] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:07] [0000m.06s.970ms] [1] SC[118]: Registered sub-client [DxThumbnails] with ID [13] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:07] [0000m.07s.111ms] [1] SC[118]: Registered sub-client [SheetConnectorsCacheDxD:1500013867] with ID [14] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:07] [0000m.07s.121ms] [1] SC[118]: Registered sub-client [NetsNamesCollectorDxD:1500013867] with ID [15] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:07] [0000m.07s.541ms] [1] SC[118]: Registered sub-client [ObjectHolder_311687888] with ID [16] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:07] [0000m.07s.541ms] [1] SC[118]: Registered sub-client [BlockCacheDxD:313018960] with ID [17] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:07] [0000m.07s.551ms] [1] SC[118]: Registered sub-client [GlobalNetAliasUpdater_311688064] with ID [18] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:07] [0000m.07s.551ms] [1] SC[118]: Registered sub-client [IcdbNetProcessorSubClientDxD:311542024] with ID [19] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:08] [0000m.08s.721ms] [1] SC[118]: Registered sub-client [DxDbSearch] with ID [20] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:09] [0000m.08s.791ms] [1] SC[118]: Registered sub-client [LDD_ECO_IMPORT] with ID [21] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:09] [0000m.08s.791ms] [1] SC[118]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [21] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:09] [0000m.09s.341ms] [1] SC[118]: Registered sub-client [LDD_ECO_IMPORT] with ID [22] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:09] [0000m.09s.341ms] [1] SC[118]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [22] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:10] [0000m.10s.341ms] [1] SC[118]: Registered sub-client [LDD_ECO_IMPORT] with ID [23] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:10] [0000m.10s.341ms] [1] SC[118]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [23] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:11] [0000m.11s.361ms] [1] SC[118]: Registered sub-client [LDD_ECO_IMPORT] with ID [24] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:11] [0000m.11s.361ms] [1] SC[118]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [24] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:12] [0000m.12s.371ms] [1] SC[118]: Registered sub-client [LDD_ECO_IMPORT] with ID [25] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:12] [0000m.12s.371ms] [1] SC[118]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [25] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:13] [0000m.13s.381ms] [1] SC[118]: Registered sub-client [LDD_ECO_IMPORT] with ID [26] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:13] [0000m.13s.381ms] [1] SC[118]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [26] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:14] [0000m.14s.401ms] [1] SC[118]: Registered sub-client [LDD_ECO_IMPORT] with ID [27] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:14] [0000m.14s.401ms] [1] SC[118]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [27] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:15] [0000m.15s.411ms] [1] SC[118]: Registered sub-client [LDD_ECO_IMPORT] with ID [28] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:15] [0000m.15s.411ms] [1] SC[118]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [28] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:16] [0000m.16s.431ms] [1] SC[118]: Registered sub-client [LDD_ECO_IMPORT] with ID [29] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:16] [0000m.16s.431ms] [1] SC[118]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [29] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:17] [0000m.17s.511ms] [1] SC[118]: Registered sub-client [LDD_ECO_IMPORT] with ID [30] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:17] [0000m.17s.511ms] [1] SC[118]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [30] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:18] [0000m.18s.451ms] [1] SC[118]: Registered sub-client [LDD_ECO_IMPORT] with ID [31] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:18] [0000m.18s.451ms] [1] SC[118]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [31] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:19] [0000m.19s.471ms] [1] SC[118]: Registered sub-client [LDD_ECO_IMPORT] with ID [32] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:19] [0000m.19s.471ms] [1] SC[118]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [32] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:20] [0000m.20s.481ms] [1] SC[118]: Registered sub-client [LDD_ECO_IMPORT] with ID [33] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:20] [0000m.20s.481ms] [1] SC[118]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [33] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:21] [0000m.21s.501ms] [1] SC[118]: Registered sub-client [LDD_ECO_IMPORT] with ID [34] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:21] [0000m.21s.501ms] [1] SC[118]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [34] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:22] [0000m.22s.311ms] [0] DFAMT: File server access time: 36 us
+[2017.07.14 09:31:22] [0000m.22s.511ms] [1] SC[118]: Registered sub-client [LDD_ECO_IMPORT] with ID [35] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:22] [0000m.22s.511ms] [1] SC[118]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [35] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:23] [0000m.23s.521ms] [1] SC[118]: Registered sub-client [LDD_ECO_IMPORT] with ID [36] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:23] [0000m.23s.521ms] [1] SC[118]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [36] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:24] [0000m.24s.541ms] [1] SC[118]: Registered sub-client [LDD_ECO_IMPORT] with ID [37] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:24] [0000m.24s.541ms] [1] SC[118]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [37] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:25] [0000m.25s.551ms] [1] SC[118]: Registered sub-client [LDD_ECO_IMPORT] with ID [38] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:25] [0000m.25s.551ms] [1] SC[118]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [38] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:26] [0000m.26s.571ms] [1] SC[118]: Registered sub-client [LDD_ECO_IMPORT] with ID [39] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:26] [0000m.26s.571ms] [1] SC[118]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [39] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:27] [0000m.27s.581ms] [1] SC[118]: Registered sub-client [LDD_ECO_IMPORT] with ID [40] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:27] [0000m.27s.581ms] [1] SC[118]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [40] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:28] [0000m.28s.591ms] [1] SC[118]: Registered sub-client [LDD_ECO_IMPORT] with ID [41] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:28] [0000m.28s.591ms] [1] SC[118]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [41] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:29] [0000m.29s.611ms] [1] SC[118]: Registered sub-client [LDD_ECO_IMPORT] with ID [42] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:29] [0000m.29s.611ms] [1] SC[118]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [42] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:30] [0000m.30s.620ms] [1] SC[118]: Registered sub-client [LDD_ECO_IMPORT] with ID [43] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:30] [0000m.30s.620ms] [1] SC[118]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [43] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:31] [0000m.31s.650ms] [1] SC[118]: Registered sub-client [LDD_ECO_IMPORT] with ID [44] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:31] [0000m.31s.650ms] [1] SC[118]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [44] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:32] [0000m.32s.650ms] [1] SC[118]: Registered sub-client [LDD_ECO_IMPORT] with ID [45] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:32] [0000m.32s.650ms] [1] SC[118]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [45] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:33] [0000m.33s.670ms] [1] SC[118]: Registered sub-client [LDD_ECO_IMPORT] with ID [46] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:33] [0000m.33s.670ms] [1] SC[118]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [46] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:34] [0000m.34s.675ms] [1] SC[118]: Registered sub-client [LDD_ECO_IMPORT] with ID [47] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:34] [0000m.34s.675ms] [1] SC[118]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [47] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:35] [0000m.35s.695ms] [1] SC[118]: Registered sub-client [LDD_ECO_IMPORT] with ID [48] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:35] [0000m.35s.695ms] [1] SC[118]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [48] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:37] [0000m.36s.735ms] [1] SC[118]: Registered sub-client [LDD_ECO_IMPORT] with ID [49] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:37] [0000m.36s.735ms] [1] SC[118]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [49] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:37] [0000m.37s.721ms] [1] SC[118]: Registered sub-client [LDD_ECO_IMPORT] with ID [50] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:37] [0000m.37s.721ms] [1] SC[118]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [50] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:38] [0000m.38s.731ms] [1] SC[118]: Registered sub-client [LDD_ECO_IMPORT] with ID [51] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:38] [0000m.38s.731ms] [1] SC[118]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [51] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:40] [0000m.39s.751ms] [1] SC[118]: Registered sub-client [LDD_ECO_IMPORT] with ID [52] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:40] [0000m.39s.751ms] [1] SC[118]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [52] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:40] [0000m.40s.501ms] [1] SC[118]: UnRegistered sub-client [GlobalNetAliasUpdater_311688064] with ID [18] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:40] [0000m.40s.501ms] [1] SC[118]: UnRegistered sub-client [BlockCacheDxD:313018960] with ID [17] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:40] [0000m.40s.501ms] [1] SC[118]: UnRegistered sub-client [ObjectHolder_311687888] with ID [16] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:40] [0000m.40s.501ms] [1] SC[118]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:311542024] with ID [19] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:40] [0000m.40s.501ms] [1] SC[118]: UnRegistered sub-client [SelectionHolder] with ID [4] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:40] [0000m.40s.501ms] [1] SC[118]: UnRegistered sub-client [SheetConnectorsCacheDxD:1500013867] with ID [14] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:40] [0000m.40s.501ms] [1] SC[118]: UnRegistered sub-client [NetsNamesCollectorDxD:1500013867] with ID [15] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:40] [0000m.40s.531ms] [1] SC[118]: UnRegistered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:40] [0000m.40s.531ms] [1] SC[118]: UnRegistered sub-client [DxD] with ID [1] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:40] [0000m.40s.561ms] [1] SC[118]: UnRegistered sub-client [xprob] with ID [3] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:40] [0000m.40s.561ms] [1] SC[118]: UnRegistered sub-client [SymbolEditor] with ID [5] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:40] [0000m.40s.571ms] [1] SC[118]: UnRegistered sub-client [Navigator] with ID [7] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:40] [0000m.40s.581ms] [1] SC[118]: UnRegistered sub-client [OutputWindow] with ID [8] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:40] [0000m.40s.591ms] [1] SC[118]: UnRegistered sub-client [DxDbSearch] with ID [20] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:40] [0000m.40s.601ms] [1] SC[118]: UnRegistered sub-client [SAE] with ID [10] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:40] [0000m.40s.611ms] [1] SC[118]: UnRegistered sub-client [CCZAddin] with ID [12] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:40] [0000m.40s.621ms] [1] SC[118]: UnRegistered sub-client [DxThumbnails] with ID [13] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:41] [0000m.40s.821ms] [1] SC[118]: UnRegistered sub-client [DxConstraints] with ID [11] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:42] [0000m.42s.521ms] [1] SC[118]: UnRegistered sub-client [PlaceDevice] with ID [9] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:42] [0000m.42s.531ms] [1] SC[118]: UnRegistered sub-client [HdlProject] with ID [6] for session ID [118] host [user-Bilgisayar] user [user] process ID [6268]
+[2017.07.14 09:31:42] [0000m.42s.621ms] [1] CMT: Removed client [118]
+[2017.07.14 09:31:42] [0000m.42s.621ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2017.07.14 09:31:44] [0000m.43s.821ms] [0] CMT: Starting server auto-close
+[2017.07.14 09:31:44] [0000m.43s.851ms] [0] S: Closing server
+[2017.07.14 09:31:44] [0000m.43s.951ms] [0] iCDB Server PI: Closing plugins
+[2017.07.14 09:31:44] [0000m.43s.951ms] [0] iCDB Server PI: Plugins closed
+[2017.07.14 09:31:44] [0000m.43s.951ms] [0] iCDB Server PI: Unloading database
+[2017.07.14 09:31:44] [0000m.43s.951ms] [0] iCDB Server PI: Saving storage
+[2017.07.14 09:31:44] [0000m.43s.951ms] [0] iCDB Server PI: Closing database
+[2017.07.14 09:31:44] [0000m.44s.011ms] [1] iCDB Server PI: Stats: Database defragmentation: max[3] avg[1] holes[35%] data[97%]
+[2017.07.14 09:31:44] [0000m.44s.011ms] [1] iCDB Server PI: Stats: Database file size [136000 (132.8 kB)]
+[2017.07.14 09:31:44] [0000m.44s.061ms] [1] iCDB Server PI: WARNING: Database needs defragmentation!
+[2017.07.14 09:31:44] [0000m.44s.071ms] [0] iCDB Server PI: Database closed
+[2017.07.14 09:31:44] [0000m.44s.071ms] [0] iCDB Server PI: Defragmenting database
+[2017.07.14 09:31:44] [0000m.44s.091ms] [0] iCDB Server PI: Creating database [C:\Users\user\Desktop\mentor_projects\deneme\motor_driver\database] backup to file [C:\Users\user\Desktop\mentor_projects\deneme\motor_driver\database\cdbback\2017-07-14 09.31.44-5844-d.zip]
+[2017.07.14 09:31:49] [0000m.48s.951ms] [0] iCDB Server PI: Database backup: DONE
+[2017.07.14 09:31:49] [0000m.49s.251ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2017.07.14 09:31:49] [0000m.49s.251ms] [0] Database GUARD OK: [136000]
+[2017.07.14 09:31:49] [0000m.49s.251ms] [0] SingleFile: [06e0-0d94-da4d-4661] SFI version check [1009] [1009]
+[2017.07.14 09:31:49] [0000m.49s.251ms] [0] SingleFile: [06e0-0d94-da4d-4661] Database SFI header has been read in [1ms 642us]
+[2017.07.14 09:31:49] [0000m.49s.571ms] [1] iCDB Server PI: Stats: Database file sizes: before[136000 (132.8 kB)], after[109616 (107.0 kB)], gain[26384 (25.8 kB)]
+[2017.07.14 09:31:49] [0000m.49s.601ms] [0] Single file [C:\Users\user\Desktop\mentor_projects\deneme\motor_driver\database\icdb.dat] closed with size [109616 (107.0 kB)]
+[2017.07.14 09:31:49] [0000m.49s.601ms] [0] iCDB Server PI: Database defragmentation completed successfully
+[2017.07.14 09:31:49] [0000m.49s.601ms] [1] BackupTransaction: Removing database backup [C:\Users\user\Desktop\mentor_projects\deneme\motor_driver\database\cdbback\2017-07-14 09.31.44-5844-d.zip]
+[2017.07.14 09:31:53] [0000m.52s.791ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [46787] ticks
+[2017.07.14 09:31:53] [0000m.52s.791ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [20008] microseconds
+[2017.07.14 09:31:53] [0000m.52s.791ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [16]
+[2017.07.14 09:31:53] [0000m.52s.791ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [799] commands per second
+[2017.07.14 09:31:53] [0000m.52s.951ms] [0] S: STOP

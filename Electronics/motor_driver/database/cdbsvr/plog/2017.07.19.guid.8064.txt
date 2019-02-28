@@ -1,0 +1,29 @@
+[2017.07.19 12:00:34] [0000m.14s.266ms] [0] WELCOME
+[2017.07.19 12:00:34] [0000m.14s.266ms] [1] iCDB Database ver.1.094, a0HSsGQ+3llE3aODnNgIUw, build:515009 created 2012-08-09 08:10:43, sources stamp:a0HSsGQ+3llE3aODnNgIUw
+[2017.07.19 12:00:34] [0000m.14s.266ms] [1] Copyright 2012 Mentor Graphics Corporation. All Rights Reserved.
+[2017.07.19 12:00:34] [0000m.14s.266ms] [1] Base flow version [7.9.4]
+[2017.07.19 12:00:34] [0000m.14s.266ms] [1] GBS Install Id [27413], Flow Id [PADS 9.5], Full Flow Name [PADS 9.5], Exact Access Date [Jun 1 2012]
+[2017.07.19 12:00:34] [0000m.14s.266ms] [1] Machine [USER-BILGISAYAR]  User [user]  PID [8064]
+[2017.07.19 12:00:34] [0000m.14s.266ms] [1] Operating system [Microsoft Windows 7 Business Edition, 64-bit Service Pack 1 (build 7601)]
+[2017.07.19 12:00:34] [0000m.14s.266ms] [1] Current working dir [C:\Users\user\Desktop\mentor_projects\deneme\motor_driver]
+[2017.07.19 12:00:34] [0000m.14s.266ms] [1] PATH [C:\MentorGraphics\9.5PADS\SDD_HOME\wv\win32\bin;C:\MentorGraphics\9.5PADS\SDD_HOME\common\win32\bin;C:\MentorGraphics\9.5PADS\SDD_HOME\common\win32\lib;C:\MentorGraphics\9.5PADS\MGC_HOME.ixn\bin;C:\MentorGraphics\9.5PADS\MGC_HOME.ixn\lib;C:\ProgramData\Oracle\Java\javapath;c:\Program Files (x86)\Intel\iCLS Client\;c:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\PuTTY\;;C:\Program Files (x86)\Microchip\MPLAB C32 Suite\bin]
+[2017.07.19 12:00:34] [0000m.14s.266ms] [1] SDD_HOME [C:\MentorGraphics\9.5PADS\SDD_HOME] on file system [NTFS]
+[2017.07.19 12:00:34] [0000m.14s.266ms] [1] SDD_PLATFORM [win32]
+[2017.07.19 12:00:34] [0000m.14s.266ms] [1] WDIR [C:\PADS Projects;C:\MentorGraphics\9.5PADS\SDD_HOME\standard]
+[2017.07.19 12:00:34] [0000m.14s.266ms] [1] Local iCDB working dir [C:\PADS Projects\iCDB] on file system [NTFS]
+[2017.07.19 12:00:34] [0000m.14s.266ms] [3] WARNING: Database [C:\Users\user\Desktop\mentor_projects\deneme\motor_driver\database\icdb.dat] was manually copied
+[2017.07.19 12:00:34] [0000m.14s.266ms] [3] File change time:        [2017-07-18 11.28.47]
+[2017.07.19 12:00:34] [0000m.14s.266ms] [3] File modification time:  [2017-07-18 12.28.52]
+[2017.07.19 12:00:34] [0000m.14s.266ms] [3] Last change time:        [2017-07-18 11.29.03]
+[2017.07.19 12:00:34] [0000m.14s.266ms] [3] Last database open information:
+[2017.07.19 12:00:34] [0000m.14s.266ms] [3] Time:             [2017-07-18 11.29.03]
+[2017.07.19 12:00:34] [0000m.14s.266ms] [3] Location:         [C:\Users\user\Desktop\mentor_projects\deneme\motor_driver\database\icdb.dat]
+[2017.07.19 12:00:34] [0000m.14s.266ms] [3] Machine:          [USER-BILGISAYAR]
+[2017.07.19 12:00:34] [0000m.14s.266ms] [3] User:             [user]
+[2017.07.19 12:00:34] [0000m.14s.266ms] [3] PID:              [7620]
+[2017.07.19 12:00:34] [0000m.14s.266ms] [3] Application:      [iCDB Server]
+[2017.07.19 12:00:34] [0000m.14s.266ms] [3] Operating system: [Microsoft Windows 7 Business Edition, 64-bit Service Pack 1 (build 7601)]
+[2017.07.19 12:00:34] [0000m.14s.266ms] [3] WARNING: Regenerating database GUID
+[2017.07.19 12:00:34] [0000m.14s.266ms] [3] Previous database GUID [6a48-42ce-0bc4-d874-a3ff-739f-3ff7-3950-08a8-3746-8080-449c]
+[2017.07.19 12:00:34] [0000m.14s.266ms] [3] Current database GUID  [a6e4-a8c2-ed13-ad67-2bf1-f697-bf1f-6950-0228-3736-8080-449c]
+[2017.07.19 12:00:34] [0000m.14s.266ms] [0] .
