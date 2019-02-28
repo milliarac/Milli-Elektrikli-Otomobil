@@ -1,0 +1,24 @@
+main
+	__CC2DW
+		____DoICP
+	InitInterrupts
+	PWM1_Init
+	UART1_Init
+	serialDataRead
+		UART1_Data_Ready
+		UART1_Read
+	convertReceivedData
+		Mul_16X16_U
+		serialDataRead
+			UART1_Data_Ready
+			UART1_Read
+	readHallSensors
+	updateMotorPins
+	updatePWM
+		PWM1_Set_Duty
+			Mul_16X16_U
+		PWM1_Start
+Interrupt
+	PWM1_Stop
+	readHallSensors
+	updateMotorPins
